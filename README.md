@@ -1,1 +1,1 @@
-# -TV-Script-Generation-Udacity
+# TV-Script-Generation-Udacity
